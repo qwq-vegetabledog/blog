@@ -1,5 +1,7 @@
 ---
 title: mon première math note
+tags:
+  - math
 ---
 Bienvenue sur mon nouveau blog !
 $E=m^2$

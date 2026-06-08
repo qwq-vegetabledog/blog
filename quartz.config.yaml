@@ -153,8 +153,11 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
+      title: Explorer
       folderClickBehavior: toggle
       folderCollapsed: false
+      useSavedState: false
+      sortFn: "default"
     layout:
       position: left
       priority: 50

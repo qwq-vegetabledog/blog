@@ -1,5 +1,5 @@
 ---
-title: index
+title: mon première français note
 tags:
   - french
 ---

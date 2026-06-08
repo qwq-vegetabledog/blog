@@ -1,0 +1,5 @@
+views:
+  - type: table
+    name: Tableau
+  - type: table
+    name: propriét

@@ -152,6 +152,9 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      folderClickBehavior: toggle
+      folderCollapsed: false
     layout:
       position: left
       priority: 50
